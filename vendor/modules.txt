@@ -1,0 +1,102 @@
+# github.com/confluentinc/confluent-kafka-go v1.9.1
+## explicit; go 1.13
+github.com/confluentinc/confluent-kafka-go/schemaregistry
+github.com/confluentinc/confluent-kafka-go/schemaregistry/cache
+github.com/confluentinc/confluent-kafka-go/schemaregistry/confluent
+github.com/confluentinc/confluent-kafka-go/schemaregistry/confluent/types
+github.com/confluentinc/confluent-kafka-go/schemaregistry/serde
+github.com/confluentinc/confluent-kafka-go/schemaregistry/serde/protobuf
+# github.com/golang/protobuf v1.5.2
+## explicit; go 1.9
+github.com/golang/protobuf/jsonpb
+github.com/golang/protobuf/proto
+github.com/golang/protobuf/protoc-gen-go/descriptor
+github.com/golang/protobuf/protoc-gen-go/plugin
+github.com/golang/protobuf/ptypes/any
+github.com/golang/protobuf/ptypes/duration
+github.com/golang/protobuf/ptypes/empty
+github.com/golang/protobuf/ptypes/struct
+github.com/golang/protobuf/ptypes/timestamp
+github.com/golang/protobuf/ptypes/wrappers
+# github.com/google/go-cmp v0.5.7
+## explicit; go 1.11
+# github.com/jhump/protoreflect v1.12.0
+## explicit; go 1.13
+github.com/jhump/protoreflect/codec
+github.com/jhump/protoreflect/desc
+github.com/jhump/protoreflect/desc/internal
+github.com/jhump/protoreflect/desc/protoparse
+github.com/jhump/protoreflect/desc/protoparse/ast
+github.com/jhump/protoreflect/desc/protoprint
+github.com/jhump/protoreflect/desc/sourceinfo
+github.com/jhump/protoreflect/dynamic
+github.com/jhump/protoreflect/internal
+github.com/jhump/protoreflect/internal/codec
+# golang.org/x/net v0.0.0-20220615171555-694bf12d69de
+## explicit; go 1.17
+# golang.org/x/sys v0.0.0-20220615213510-4f61da869c0c
+## explicit; go 1.17
+# golang.org/x/xerrors v0.0.0-20220609144429-65e65417b02f
+## explicit; go 1.17
+# google.golang.org/genproto v0.0.0-20220713161829-9c7dac0a6568
+## explicit; go 1.15
+google.golang.org/genproto/googleapis/type/calendarperiod
+google.golang.org/genproto/googleapis/type/color
+google.golang.org/genproto/googleapis/type/date
+google.golang.org/genproto/googleapis/type/datetime
+google.golang.org/genproto/googleapis/type/dayofweek
+google.golang.org/genproto/googleapis/type/expr
+google.golang.org/genproto/googleapis/type/fraction
+google.golang.org/genproto/googleapis/type/latlng
+google.golang.org/genproto/googleapis/type/money
+google.golang.org/genproto/googleapis/type/postaladdress
+google.golang.org/genproto/googleapis/type/quaternion
+google.golang.org/genproto/googleapis/type/timeofday
+google.golang.org/genproto/protobuf/api
+google.golang.org/genproto/protobuf/field_mask
+google.golang.org/genproto/protobuf/ptype
+google.golang.org/genproto/protobuf/source_context
+# google.golang.org/grpc v1.48.0
+## explicit; go 1.14
+# google.golang.org/protobuf v1.28.0
+## explicit; go 1.11
+google.golang.org/protobuf/encoding/protojson
+google.golang.org/protobuf/encoding/prototext
+google.golang.org/protobuf/encoding/protowire
+google.golang.org/protobuf/internal/descfmt
+google.golang.org/protobuf/internal/descopts
+google.golang.org/protobuf/internal/detrand
+google.golang.org/protobuf/internal/encoding/defval
+google.golang.org/protobuf/internal/encoding/json
+google.golang.org/protobuf/internal/encoding/messageset
+google.golang.org/protobuf/internal/encoding/tag
+google.golang.org/protobuf/internal/encoding/text
+google.golang.org/protobuf/internal/errors
+google.golang.org/protobuf/internal/filedesc
+google.golang.org/protobuf/internal/filetype
+google.golang.org/protobuf/internal/flags
+google.golang.org/protobuf/internal/genid
+google.golang.org/protobuf/internal/impl
+google.golang.org/protobuf/internal/order
+google.golang.org/protobuf/internal/pragma
+google.golang.org/protobuf/internal/set
+google.golang.org/protobuf/internal/strs
+google.golang.org/protobuf/internal/version
+google.golang.org/protobuf/proto
+google.golang.org/protobuf/reflect/protodesc
+google.golang.org/protobuf/reflect/protoreflect
+google.golang.org/protobuf/reflect/protoregistry
+google.golang.org/protobuf/runtime/protoiface
+google.golang.org/protobuf/runtime/protoimpl
+google.golang.org/protobuf/types/descriptorpb
+google.golang.org/protobuf/types/known/anypb
+google.golang.org/protobuf/types/known/apipb
+google.golang.org/protobuf/types/known/durationpb
+google.golang.org/protobuf/types/known/emptypb
+google.golang.org/protobuf/types/known/fieldmaskpb
+google.golang.org/protobuf/types/known/sourcecontextpb
+google.golang.org/protobuf/types/known/structpb
+google.golang.org/protobuf/types/known/timestamppb
+google.golang.org/protobuf/types/known/typepb
+google.golang.org/protobuf/types/known/wrapperspb
+google.golang.org/protobuf/types/pluginpb

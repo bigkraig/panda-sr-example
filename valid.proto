@@ -1,0 +1,7 @@
+syntax = "proto3";
+package schema.test;
+option go_package = "github.com/bigkraig/schema-test;main";
+
+message Valid {
+    string test = 1;
+}
