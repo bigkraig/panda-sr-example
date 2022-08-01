@@ -1,0 +1,7 @@
+syntax = "proto3";
+package schema.test.deps;
+option go_package = "github.com/bigkraig/schema-test/deps;deps";
+
+message Imported {
+    string test = 1;
+}

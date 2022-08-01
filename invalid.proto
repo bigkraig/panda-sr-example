@@ -2,8 +2,11 @@ syntax = "proto3";
 package schema.test;
 option go_package = "github.com/bigkraig/schema-test;main";
 
+import "deps/imported.proto";
 import "google/protobuf/timestamp.proto";
 
 message Invalid {
-    google.protobuf.Timestamp timestamp = 1;
+    string test = 1;
+    deps.Imported import = 2;
+    google.protobuf.Timestamp timestamp = 3;
 }
